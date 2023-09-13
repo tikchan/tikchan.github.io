@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, UC San Diego, 2022-
-* B.A. in Mathematics, Cornell University, 2018-2022
+* Ph.D in Mathematics, UC San Diego, 2022 -
+* B.A. in Mathematics, Cornell University, 2018 - 2022
 
 Publications
 ======
